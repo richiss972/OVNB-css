@@ -1695,7 +1695,7 @@
 	}
 
 	.live-tip:before {
-		content: "\\f1fa";
+		content: "\f0e7";
 		font-family: "Font Awesome 6 Free";
 		font-weight: 900;
 		position: absolute;
