@@ -1695,13 +1695,7 @@
 	}
 
 	.live-tip:before {
-		content: "\f0e7";
-		font-family: "Font Awesome 6 Free";
-		font-weight: 900;
-		position: absolute;
-		left: 0;
-		color: #ff0036;
-		text-shadow: 0 0 5px rgba(255, 0, 54, 0.7);
+    		display: none; 
 	}
 
 	.live-tip:last-child {
